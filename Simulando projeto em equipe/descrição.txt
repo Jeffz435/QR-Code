@@ -1,3 +1,0 @@
-simulando o desenvolvimento em paralelo de equipes, duas funcionalidades em branches separadas sendo desenvolvidas
-
-Funcionalidade 1
